@@ -1,4 +1,3 @@
-presion_report.md
 
 # Отчёт о тестировании приложения "Precision"
 
@@ -16,7 +15,7 @@ presion_report.md
 При функциональном тестировании,был выявлен дефект:
 
 
-[Дефект в приложении])https://github.com/Sininerebane/Precision/issues/1)
+[Дефект в приложении](https://github.com/Sininerebane/Precision/issues/1)
 
 Результаты:
 Вместо ответа: 0.9
